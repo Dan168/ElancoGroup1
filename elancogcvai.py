@@ -1,4 +1,3 @@
-
 !pip install google-cloud-vision
 
 """**Main Script**"""
